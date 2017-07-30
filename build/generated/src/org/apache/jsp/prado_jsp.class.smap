@@ -1,0 +1,34 @@
+SMAP
+prado_jsp.java
+JSP
+*S JSP
+*F
++ 0 prado.jsp
+prado.jsp
++ 1 boot2.jsp
+WEB-INF/tags/boot2.jsp
++ 2 carscript.jsp
+WEB-INF/tags/carscript.jsp
++ 3 angularr.jsp
+WEB-INF/tags/angularr.jsp
++ 4 nav.jsp
+WEB-INF/tags/nav.jsp
+*L
+5,7:52
+1#1,13:59
+11#0,2:72
+1#2,299:74
+12#0,3:373
+1#3,3:376
+14#0,4:379
+1#4,64:383
+65:447,3
+66,205:450
+271:655,3
+272,30:658
+302,2:688,3
+304,22:694
+326,2:716,3
+328,80:722
+17#0,476:801
+*E
